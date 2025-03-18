@@ -5,7 +5,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&color=2BF723&lines=Hello+👋+I'm+Sandani+Thilakarathna.;A+Software+Engineering+Undergraduate+at+SLIIT)](https://git.io/typing-svg) -->
 
 <!-- <h3 align="center">A Software Engineering Undergraduate at NIBM</h3> -->
-<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
+<img align="right" alt="Coding" width="150" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandani2000&label=Profile%20views&color=0e75b6&style=flat" alt="sandani2000" /> </p>
 
