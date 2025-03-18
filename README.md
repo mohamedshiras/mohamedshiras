@@ -1,4 +1,5 @@
-<img width="100%" src="https://corizo.in/wp-content/uploads/2024/11/UI-Developer.gif">
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" style="max-width: 1000px; width: 100%; height: auto;" alt="UI Developer">
+
 
 <h1 align="center">Hi 👋, I'm Mohamed Shiras</h1>
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&color=2BF723&lines=Hello+👋+I'm+Sandani+Thilakarathna.;A+Software+Engineering+Undergraduate+at+SLIIT)](https://git.io/typing-svg) -->
