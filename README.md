@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python, React**
 
-- 💬 Ask me about **C#, Javat**
+- 💬 Ask me about **C#, Java**
 
 - 📫 How to reach me **mchiya1003@gmail.com**
 ---
