@@ -7,7 +7,7 @@
 <!-- <h3 align="center">A Software Engineering Undergraduate at NIBM</h3> -->
 <img align="right" alt="Coding" width="150" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandani2000&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif"/> </p>
 
 - 🌱 I’m currently learning **Python, React**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mchiya1003@gmail.com**
 ---
-<h2> Skills <img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width = 32px> </h2>
+<h2> Skills <img src = "https://komarev.com/ghpvc/?username=sandani2000&label=Profile%20views&color=0e75b6&style=flat" width = 32px> </h2>
 	
 ## 📋 Languages:
 	
